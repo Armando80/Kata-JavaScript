@@ -1,0 +1,11 @@
+.my-row{
+    border: 1px solid green;
+}
+
+.my-col{
+    border: 1px dotted blue;
+}
+
+.my-justify-self{
+    justify-self: center;
+}
